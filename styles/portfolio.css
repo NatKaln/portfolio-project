@@ -31,3 +31,8 @@ p {
   color: #272142;
   line-height: 2;
 }
+.bnt-branding {
+  background: #6c63ff;
+  border-radius: 4px;
+  color: white;
+}
