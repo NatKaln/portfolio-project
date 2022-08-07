@@ -18,6 +18,7 @@ p {
 .hero {
   background-color: #f9f7fe;
   text-align: center;
+  padding: 160px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -35,4 +36,8 @@ p {
   background: #6c63ff;
   border-radius: 4px;
   color: white;
+  font-size: 18px;
+  line-height: 27px;
+  font-family: "Poppins", sans-serif;
+  padding: 15px 30px;
 }
