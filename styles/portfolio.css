@@ -117,7 +117,7 @@ nav li.active a {
   padding: 120px 60px;
 }
 .logo {
-  max-width: 150px;
+  max-height: 40px;
 }
 @media (max-width: 900px) {
   h1 {
