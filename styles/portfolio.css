@@ -35,7 +35,7 @@ p {
   text-align: center;
   padding: 160px 20px;
 }
-.about-section {
+.contant-container {
   padding: 160px 20px;
 }
 .hero p {
@@ -50,17 +50,17 @@ p {
   color: #272142;
   line-height: 2;
 }
-.about-section h1 {
+.contant-container h1 {
   font-size: 64px;
   line-height: 80px;
 }
-.about-section h2 {
+.contant-container h2 {
   font-family: var(--default-font-family);
   color: #272142;
   font-size: 18px;
   line-height: 27px;
 }
-.about-section-content {
+.content {
   margin: 30px;
 }
 
@@ -100,7 +100,7 @@ p {
     text-align: center;
     padding: 0;
   }
-  .about-section {
+  .contant-container {
     text-align: center;
     padding: 0;
   }
