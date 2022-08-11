@@ -35,6 +35,9 @@ p {
   text-align: center;
   padding: 160px 20px;
 }
+.about-section {
+  padding: 160px 20px;
+}
 .hero p {
   font-size: 36px;
   font-weight: bold;
@@ -57,8 +60,11 @@ p {
   font-size: 18px;
   line-height: 27px;
 }
+.about-section-content {
+  margin: 30px;
+}
 
-.bnt-branding {
+.btn-branding {
   background: var(--branding-color);
   border-radius: 4px;
   color: white;
