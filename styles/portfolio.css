@@ -90,7 +90,7 @@ footer .social-links a:hover {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .content-container {
   padding: 60px 20px;
@@ -164,9 +164,7 @@ footer .social-links a:hover {
   h4 {
     font-size: 26px;
   }
-  .hero {
-    padding: 60px 20px;
-  }
+
   .project-description {
     text-align: center;
     padding: 0;
